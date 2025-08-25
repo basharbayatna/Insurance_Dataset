@@ -23,6 +23,11 @@ The dataset used is the Insurance Dataset: https://drive.google.com/file/d/1-7mc
    - Combined filters to find customers matching multiple criteria (e.g., male and under 30).  
    - Filtered regions containing "south" using `.str.contains`.
 
+4. **Grouped the data**  
+   - Used `.groupby()` to calculate **average charges** by sex.  
+   - Used `.groupby()` to calculate **average charges** by smoker status.  
+   - Combined groupby to calculate **average charges** by both smoker status and sex.  
+
 ## Tools Used
 
 - Python 3  
