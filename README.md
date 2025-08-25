@@ -35,7 +35,7 @@ The dataset used is the Insurance Dataset: [Insurance Dataset Link](https://driv
     <img width="571" height="455" alt="Distribution of BMI" src="https://github.com/user-attachments/assets/cd22b91c-a0d8-4d2d-a8a9-8c983308c221" />
 
 2. **Boxplot of BMI by Region**: BMI variations by region with median and outliers.
-<img width="562" height="455" alt="BMI By Region" src="https://github.com/user-attachments/assets/43fe7eb5-19a8-4836-88d4-71179c7de8eb" />
+    <img width="562" height="455" alt="BMI By Region" src="https://github.com/user-attachments/assets/43fe7eb5-19a8-4836-88d4-71179c7de8eb" />
 
 **Key Insights:**
 - **Overall BMI Distribution:** Most individuals have a BMI between approximately 20 and 35.  
