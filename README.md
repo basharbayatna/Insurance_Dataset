@@ -51,6 +51,8 @@ The dataset used is the Insurance Dataset: [Insurance Dataset Link](https://driv
 - Matplotlib  
 - Seaborn  
 
-## Author
-Bashar Bayatna
+##  Information 
+ For any Questions or Recommendations:
+  - Bashar Bayatna (Mechatronics Engineer|Junior Data Scientist)
+  - Basharbayatna11@gmail.com
 
