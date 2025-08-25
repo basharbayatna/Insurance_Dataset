@@ -70,9 +70,10 @@ The dataset used is the Insurance Dataset: [Insurance Dataset Link](https://driv
 
 - Smokers pay significantly higher charges than non-smokers.  
 - Boxplot highlights outliers, showing extreme charges among smokers.
-- 
+  
 5. **Linear Model Plot-ChargesVS. BMI- Colored by Smoking status**
 <img width="549" height="512" alt="Charged VS  BMI colored by Smoker" src="https://github.com/user-attachments/assets/3ea75be9-1076-4286-8401-55212ddbb2e8" />
+
 - As expected from the previous analysis, there is a strong positive correlation between BMI and charges for smokers, which is evident from the upper regression line. For non-smokers, the correlation is weaker, visible along the lower regression line.
   
 
