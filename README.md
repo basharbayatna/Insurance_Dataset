@@ -4,7 +4,7 @@ This repository contains a simple practice notebook for working with **Pandas** 
 
 ## Dataset
 
-The dataset used is the [Insurance Dataset] https://drive.google.com/file/d/1-7mcBguuzAV7JWVu2XCpgAO-fO6X2cl0/view
+The dataset used is the Insurance Dataset: https://drive.google.com/file/d/1-7mcBguuzAV7JWVu2XCpgAO-fO6X2cl0/view
 
 ## What I Did
 
