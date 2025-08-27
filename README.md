@@ -76,6 +76,18 @@ The dataset used is the Insurance Dataset: [Insurance Dataset Link](https://driv
 
 - As expected from the previous analysis, there is a strong positive correlation between BMI and charges for smokers, which is evident from the upper regression line. For non-smokers, the correlation is weaker, visible along the lower regression line.
   
+6. **Recommended BMI Range**
+
+To better understand the distribution of BMI among individuals, we plotted a histogram and highlighted the **recommended healthy BMI range (18.5 – 24.9)**.  
+
+This annotation helps to visualize how many individuals fall within the healthy range versus those who are underweight, overweight, or obese.
+
+<img width="1005" height="701" alt="Range of Recommended BMI" src="https://github.com/user-attachments/assets/9d6baa70-2790-4a3b-bb28-ffe99dd6a4e1" />
+
+**Insights:**
+- A large proportion of individuals fall **outside** the healthy BMI range.  
+- Many individuals are in the **overweight/obese category**, which correlates with higher medical charges.  
+- Very few individuals are underweight compared to the overweight/obese population.  
 
 
 ## Tools Used
